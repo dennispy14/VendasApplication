@@ -1,4 +1,4 @@
-package com.aplicationVendas.dennispy.execeptionRegraNegocioException;
+package com.aplicationVendas.dennispy.execeptions;
 
 public class PedidoNaoEncontradoException  extends  RuntimeException{
 

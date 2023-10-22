@@ -1,7 +1,7 @@
 package com.aplicationVendas.dennispy.rest.controller;
 
-import com.aplicationVendas.dennispy.execeptionRegraNegocioException.PedidoNaoEncontradoException;
-import com.aplicationVendas.dennispy.execeptionRegraNegocioException.RegraNegocioException;
+import com.aplicationVendas.dennispy.execeptions.PedidoNaoEncontradoException;
+import com.aplicationVendas.dennispy.execeptions.RegraNegocioException;
 import com.aplicationVendas.dennispy.rest.ApiErrors;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.MethodArgumentNotValidException;
